@@ -1,4 +1,4 @@
-package nao.cycledev.currency.conversion.springbootmicroservicecurrencyconversion;
+package nao.cycledev.currency.conversion;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class SpringBootMicroserviceCurrencyConversionApplicationTests {
+public class CurrencyConversionApplicationTests {
 
     @Test
     public void contextLoads() {
